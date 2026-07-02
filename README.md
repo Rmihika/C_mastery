@@ -6,19 +6,7 @@ A structured repository documenting my journey to mastering the C programming la
 
 * Basics of C
 * Variables & Data Types
-* Operators & Expressions
-* Conditional Statements
-* Loops
-* Functions & Recursion
-* Arrays & Strings
-* Pointers
-* Dynamic Memory Allocation
-* Structures, Unions & Enums
-* File Handling
-* Preprocessor Directives
-* Data Structures in C
-* Algorithms
-* Mini Projects
+
 
 ## 📂 Repository Structure
 
